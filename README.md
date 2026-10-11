@@ -31,7 +31,10 @@ The objective of this project is to develop an innovative solution using technol
 3. Run the project files according to the instructions.
 
 ## Team Members
-- Add your team members' names here.
+-OM keshri
+-Rohit kumar
+-pratibha Kumari
+
 
 ## Event
 **Qiskit Fall Fest 2026**  
